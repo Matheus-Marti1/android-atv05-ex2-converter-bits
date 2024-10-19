@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Atv 5 Ex2 Converter Bits</string>
+    <string name="nome_aluno">Matheus Augusto Marti</string>
+    <string name="ra_aluno">RA: 1110482313017</string>
+    <string name="titulo">Converter Bits</string>
+    <string name="hint_numero">Insira um número em bits</string>
+    <string name="unidade">Unidade:</string>
+    <string name="botao_converter">Converter</string>
+</resources>
