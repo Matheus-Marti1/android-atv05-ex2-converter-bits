@@ -1,3 +1,7 @@
+/*
+@author:<Matheus Augusto Marti>
+*/
+
 package br.edu.fateczl.atv5ex2converterbits;
 
 import android.os.Bundle;
